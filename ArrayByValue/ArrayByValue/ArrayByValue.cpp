@@ -1,4 +1,6 @@
 // ArrayByValue.cpp : Defines the entry point for the console application.
+// Allee Clark
+// Structures of Programming Language
 
 #include "stdafx.h"
 #include <iostream>
