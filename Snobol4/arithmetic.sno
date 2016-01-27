@@ -1,0 +1,3 @@
+	OUTPUT = '45 + 50 is equal to'
+	OUTPUT = 45 + 50
+end 
