@@ -1,0 +1,6 @@
+	N = 0
+COPY OUTPUT = INPUT
+	LT(N, 2)		:F(DONE)
+	N = N + 1		:(COPY)
+DONE OUTPUT = 'THERE WERE ' N 'LINES'
+end
