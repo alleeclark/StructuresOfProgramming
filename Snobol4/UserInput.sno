@@ -1,0 +1,4 @@
+	A = input
+	ABC = input
+	OUTPUT = ABC * A
+end
