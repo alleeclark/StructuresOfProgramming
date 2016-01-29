@@ -2,7 +2,6 @@
 // Allee Clark
 // Structures of Programming Language
 
-#include "stdafx.h"
 #include <iostream>
 
 using namespace std;
